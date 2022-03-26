@@ -14,5 +14,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <h2>
-  Would you like to test it? 👉 <a href="https://programming-dictionary.000webhostapp.com/dictionary.html" target= "_blank">CLICK HERE</a></p>
+  Would you like to test it? 👉 <a href="https://linalozz.github.io/LinaLozano/dictionary.html" target= "_blank">CLICK HERE</a></p>
 </h2>
